@@ -29,3 +29,5 @@ a {
 .social a {
     margin-right: 20px;
 }
+
+.inner{display:flex; flex-direction:row;}

@@ -3,10 +3,7 @@ id: about
 title: About
 ---
 
-Hey! I'm Nyteisha Bookert, a Computer Science Ph.D. student at NC A&T State University. I am a graduate research assistant in the Secure and Usable Social Media & Networks (SUSMaN) Lab.
-
-My research aims to increase transparency and raise awareness of the security and privacy risk of IoT devices. Currently, I am developing a tool to identify privacy vulnerabilities in connected medical devices.  I'm a proud alumna of SC State University and NCA&T. 
-<!-- I use to study '' -->
+Hi! I'm Teisha, a Ph.D. candidate in computer science at North Carolina A&T State University. I work in the Human Centered AI Lab with my advisor, Dr. Mohd Anwar, investigating the intersection of privacy, healthcare, and the Internet of Things. 
 
 <!-- https://docs.github.com/en/pages
 https://docusaurus.io/docs/design-principles
