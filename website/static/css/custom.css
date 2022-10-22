@@ -31,4 +31,4 @@ a {
 }
 
 .inner{display:flex; flex-direction:row;}
-.projectTitle{font-size: 16px; padding: 60px;}
+.projectTitle{font-size: 16px; text-align: left; padding: 60px;}
