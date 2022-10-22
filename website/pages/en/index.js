@@ -38,9 +38,8 @@ class HomeSplash extends React.Component {
     const ProjectTitle = (props) => (
       <div className="projectTitle">
         <h3>{props.title}</h3>
-        <p>{props.tagline}
-        {props.bio}</p>
-        
+        <p>{props.tagline}</p>
+        <p><small>{props.bio}</small></p>
       </div>
     
     );
