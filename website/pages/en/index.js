@@ -39,6 +39,7 @@ class HomeSplash extends React.Component {
       <h2 className="projectTitle">
         {props.title}
         <small>{props.tagline}</small>
+        {props.bio}
       </h2>
     );
 
@@ -61,11 +62,10 @@ class HomeSplash extends React.Component {
     return (
       <SplashContainer>
         <div className="inner">
-          <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
           <img src={siteConfig.profilePhoto} alt="My Profile Photo" style={{maxWidth: '50%'}}/>
           </PromoSection>
-        </div>
+          <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} bio={siteConfig.bio}/></div>
       </SplashContainer>
     );
   }
