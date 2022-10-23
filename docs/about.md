@@ -1,6 +1,6 @@
 ---
-id: research
-title: Research
+id: about
+title: About
 ---
 
 Hi! I'm Teisha, a Ph.D. candidate in computer science at North Carolina A&T State University. I work in the Human Centered AI Lab with my advisor, Dr. Mohd Anwar, investigating the intersection of privacy, healthcare, and the Internet of Things. 
