@@ -29,9 +29,9 @@ We are looking for Adults (18 years of age and older) who currently live in the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0X0PJ6GMlN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<!-- ## Recognition
+## Recognition
 
 - 
 - 
--  -->
+- 
 
