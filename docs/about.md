@@ -21,12 +21,6 @@ We are looking for Adults (18 years of age and older) who currently live in the 
 
 ![Research Study Recruitment Flyer](./assets/Stamped_Recruitment_Flyer_2022-10-12.png)
 
-<!-- ## Recognition
-
-- 
-- 
--  -->
-
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62cX8028g24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
