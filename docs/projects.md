@@ -13,4 +13,4 @@ or even embed images with the following Markdown:
 [Download my cv](/assets/website_CV.pdf)
 <!-- ![Add alternate text for image](./assets/Stamped_Recruitment_Flyer_2022-10-12.png) -->
 
-5 hours later........ <a href="nbookert.github.io/tech-portfolio/docs/website_CV.pdf" target="_blank">PDF.</a>
+5 hours later........ {{ site.baseurl }}/docs/website_CV.pdf
