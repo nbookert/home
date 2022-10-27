@@ -30,6 +30,7 @@ a {
     margin-right: 20px;
 }
 
-.inner{display:flex; flex-direction:column;}
-.projectTitle{font-size: 16px; text-align: left;}
-/*  padding: 10px; */
+.inner{display:flex; align-items: center;}
+image{flex-basis: 40%;}
+.projectTitle{font-size: 16px; padding-left: 20px;}
+/*  padding: 10px; flex-direction:column;text-align: left;*/
