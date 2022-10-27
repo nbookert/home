@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Nyteisha Bookert', // Title for your website.
     tagline: 'Ph.D. Candidate',//driven or consuming
-    bio: 'Hi! I\'m Teisha, a Ph.D. candidate in computer science at North Carolina A&T State University. I work in the Human Centered AI Lab with my advisor, Dr. Mohd Anwar, investigating the intersection of privacy, healthcare, and the Internet of Things. ',
+    bio: 'I investigate the security and privacy of emerging technologies to protect end-users.',
     profilePhoto: 'img/profile.jpg',
     url: 'https://nbookert.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
