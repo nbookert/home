@@ -15,6 +15,7 @@ const siteConfig = {
     title: 'Nyteisha Bookert', // Title for your website.
     tagline: 'Ph.D. Candidate',//driven or consuming
     bio: 'I investigate the security and privacy of emerging technologies to protect end-users.',
+    // My research investigates the security and privacy of emerging technologies to protect end-users. 
     profilePhoto: 'img/profile.jpg',
     url: 'https://nbookert.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
