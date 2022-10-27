@@ -18,13 +18,13 @@ const siteConfig = {
     // My research investigates the security and privacy of emerging technologies to protect end-users. 
     profilePhoto: 'img/profile.jpg',
     url: 'https://nbookert.github.io', // Your website URL
-    baseUrl: '/tech-portfolio/', // Base URL for your project */
+    //baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
 
     // Used for publishing and more
-    projectName: 'tech-portfolio',
+//     projectName: 'tech-portfolio',
     organizationName: 'nbookert',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
